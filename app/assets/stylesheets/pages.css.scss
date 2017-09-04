@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 0 200px 0 280px;
+    width: 100%;
+}
+
+.menu ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.menu li {
+    display: inline;
+    line-height: 100px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100px;
+    height: 100px;
+    margin: 0 20px 0 0;
+}
+
+.name h1 {
+    color: #000;
+    font-size: 18px;
+    line-height: 100px;
+    height: 100px;
+    margin: 0;
+    text-align: right;
+}
+
+.main {
+    width: 100%;
+}
+
+.home .jumbotron {
+    background: url('https://dl.dropboxusercontent.com/s/9e4cq8y01416ai3/stephen-bergin-214607.jpg?dl=0') center center;
+    background-size: cover;
+    min-height: 600px;
+    width: 100%;
+}
+
+.main .container {
+    margin: 80px 0;
+}
+
+.home h2 {
+    color: #fff;
+}
+
+.main h2 {
+    color: #000;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: right;
+}
+
+.home h2 {
+    color: #fff;
+}
+
+.right {
+    float: right;
+}
+
+.highlight {
+    background-color: #eaeff4;
+    color: #000;
+    padding: 0 10px 0;
+}
+
+a.btn {
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 100;
+    height: 60px;
+    line-height: 60px;
+    margin: 40px 0;
+    padding: 0;
+    transition: background-color .5s;
+    width: 200px;
+}
+
+.footer {
+    background-color: #fff;
+    height: 200px;
+    text-align: right;
+    width: 100%;
+}
+
+.footer .social_media {
+    margin: 65px 0 20px;
+    width: 100%;
+}
+
+.social_media li {
+    display: inline-block;
+    height: 24px;
+    margin: 0 0 0 10px;
+    text-align: left;
+    text-indent: -9999px;
+    width: 24px;
+}
+
+
+/**Icons**/
+
+.social_media li a {
+    display: block;
+    height: 24px;
+    width: 24px;
+}
+.github {
+    background-image: url('https://dl.dropboxusercontent.com/s/ll4bincmrb2jlbr/github-logo.svg?dl=0');
+    background-position: center center;
+}
+
+.linkedin {
+    background-image: url('https://dl.dropboxusercontent.com/s/uwah935tko19ovk/linkedin-logo.svg?dl=0');
+    background-position: center center;
+}
+
+.twitter {
+    background-image: url('https://dl.dropboxusercontent.com/s/oxw2u8m9ump6291/twitter-logo-silhouette.svg?dl=0');
+    background-position: center center;
+}
+
+p {
+    margin: 0 0 10px;
+}
