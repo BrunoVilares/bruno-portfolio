@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+body, html {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    height: 100%;
+    width: 100%;
+}
+
+
 .container {
     padding: 0 200px 0 280px;
     width: 100%;
@@ -86,6 +94,8 @@ a.btn {
     width: 200px;
 }
 
+/* FOOTER */
+
 .footer {
     background-color: #fff;
     height: 200px;
@@ -108,20 +118,20 @@ a.btn {
 }
 
 
-/**Icons**/
 
 .social_media li a {
     display: block;
     height: 24px;
     width: 24px;
 }
+
 .github {
-    background-image: url('https://dl.dropboxusercontent.com/s/hssokckk00e675w/github-logo.svg?dl=0');
+    background-image: url('https://dl.dropboxusercontent.com/s/q4w3kz0b7gigi4v/github.svg?dl=0');
     background-position: center center;
 }
 
 .linkedin {
-    background-image: url('https://dl.dropboxusercontent.com/s/ms24xvifiamja76/linkedin-logo.svg?dl=0');
+    background-image: url('https://dl.dropboxusercontent.com/s/53x4u48r8dchlhf/linkedin.svg?dl=0');
     background-position: center center;
 }
 

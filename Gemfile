@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem "font-awesome-rails"
+
+
 
 #Heroku
 gem 'pg', '0.18.1', group: :production
