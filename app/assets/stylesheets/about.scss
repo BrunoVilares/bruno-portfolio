@@ -1,0 +1,55 @@
+.main {
+    width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main .container {
+    margin: 80px 0;
+}
+
+.container {
+    padding: 0 200px 0 280px;
+    width: 100%;
+}
+
+.about .thumbnail {
+    max-height: 400px;
+}
+
+.thumbnail {
+    border: 0;
+    border-radius: 0;
+    max-height: 240px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.about h2 {
+    margin: 0 0 40px;
+}
+
+.project h3, .project p, .about h2, .about p {
+    padding: 0 20px 0;
+}
+
+.main h2 {
+    color: #000;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: right;
+}
+
+.highlight {
+    background-color: #eaeff4;
+    color: #000;
+    padding: 0 10px 0;
+}
+
+.project h3, .project p, .about h2, .about p {
+    padding: 0 20px 0;
+}
+
